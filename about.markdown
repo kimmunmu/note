@@ -3,4 +3,9 @@ title: 关于我
 layout: page
 ---
 
-TEST BLOG
+"化繁为简"
+
+Wechat:skilings
+SinaWeibo:skilings
+
+;)

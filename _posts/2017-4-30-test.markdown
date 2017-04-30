@@ -1,0 +1,11 @@
+---
+title: 'TESTnote'
+layout: post
+guid: urn:uuid:0e1aa3e2-5e9d-41ac-8f52-acf4f29228a2
+tags:
+    - blog
+---
+
+![Sunrise](/media/files/2017/4-30/head.jpg)
+
+test
