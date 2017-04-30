@@ -3,8 +3,6 @@ title: 关于我
 layout: page
 ---
 
-Wechat:skilings 
 
-SinaWeibo:skilings
-
-;)
+“风萧萧”
+“雨潇潇”
