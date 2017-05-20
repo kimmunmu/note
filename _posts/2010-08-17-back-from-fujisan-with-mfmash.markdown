@@ -1,9 +1,9 @@
 ---
-title: '美しいから短いのか、短いから美しいのか'
+title: '“不塞不流，不止不行”'
 layout: post
-guid: urn:uuid:2a23b7d7-cd5e-4b85-80ff-38d4abf241a9
+guid: urn:uuid:48ee2738-b2f6-441e-a1b5-e86f6cafc357
 tags:
-    - japan
+    - 5D2
 ---
 
-![Sunrise](/media/files/2010/08/17/sunrise.jpg)
+![Sunrise](/media/files/2017/5-20/01.jpg)
